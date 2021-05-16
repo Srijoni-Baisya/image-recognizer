@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to bottom right,rgba(22,230,246,92),rgba(6,201,246,93),rgba(62,116,246,95));
+    color: purple;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#result_object_name,#result_object_accuracy{
+    color: black;
+}
+.name_of_objects{
+    color: red;
+}
+label,b{
+    font-size: 20px;
+    font-family: 'Newsreader', serif;
+}
+#result{
+    border: 10px ridge;
+    width:380px;
+    height: 380px;
+    padding: 5px;
+}
